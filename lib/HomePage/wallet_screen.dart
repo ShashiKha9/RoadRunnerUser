@@ -247,7 +247,7 @@ class _WalletScreenState extends State<WalletScreen>
                                               ),
                                               Center(
                                                 child: Text(
-                                                  'Add Amount',
+                                                  'Withdraw',
                                                   style: TextStyle(
                                                       color: AppTheme.nearlyBlack,
                                                       fontFamily: AppTheme.fontName,
