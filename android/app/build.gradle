@@ -63,6 +63,13 @@ android {
             versionCode 2
             versionName "1.0.2"
         }
+        next {
+            dimension "roadruner"
+            applicationId "com.roadrunnersclub.app3"
+            versionCode 3
+            versionName "1.0.0"
+        }
+
     }
 
     configurations.all {
